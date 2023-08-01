@@ -1,4 +1,5 @@
-# Create-the-Decision-Tree-classifier-and-visualize-it-graphically.In this project, we aim to build a Decision Tree classifier and visualize it graphically using Python and the scikit-learn library. The project can be broken down into the following steps:
+# Create-the-Decision-Tree-classifier-and-visualize-it-graphically.
+In this project, we aim to build a Decision Tree classifier and visualize it graphically using Python and the scikit-learn library. The project can be broken down into the following steps:
 
 Data Loading: We begin by loading the dataset on which we want to build the Decision Tree classifier. In this example, we use the Iris dataset, which is a famous dataset in machine learning and contains features of iris flowers along with their corresponding species.
 
